@@ -6,8 +6,10 @@ This page shows the various personal projcts I have made. For more information p
 
 ---
 ## Custom Game Console & Game
-|  | | 
-|--------|-------------|
+|   <img src="project begining console.jpg" width="100%">  |    <img src="project begining console.jpg" width="100%"> | <img src="project begining console.jpg" width="100%"> |
+|-|-|-|
+|**What**|**How**|**Why**|
+| - Fully custom designed and built 'Handheld Game Console' (portable) <br> - Custom program to run on system (game: 'Runner') | test| test|
 
----
+--- 
 
