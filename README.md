@@ -1,8 +1,9 @@
 # Engineering Projects Portfolio  
-*by Ansh Builds Things*  
+### By Lalit Yadav 
 
-Welcome! This repository showcases my engineering builds and projects — from concept to build, with lessons learned along the way.  
-My YouTube channel for video demos: [Ansh_Builds_Things](https://www.youtube.com/@Ansh_Builds_Things)
+This page shows the various personal projcts I have made independently. For more information please visit my Youtube Channel:
+[![All Projects](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/@Ansh_Builds_Things)
+
 
 ---
 
