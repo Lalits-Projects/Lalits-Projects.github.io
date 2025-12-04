@@ -4,8 +4,9 @@
   </span>
 </h1>
 
-
-This page shows the various personal projcts I have made. For more information please visit my <a href="https://www.youtube.com/@Ansh_Builds_Things" target="_blank">Youtube Channel.</a>
+<span style="font-family: 'Times New Roman', Times, serif;">
+  This page shows the various personal projcts I have made. For more information please visit my <a href="https://www.youtube.com/@Ansh_Builds_Things" target="_blank">Youtube Channel.</a>
+</span>
 
 ---
 
@@ -13,8 +14,8 @@ This page shows the various personal projcts I have made. For more information p
 
 <table>
   <tr>
-    <td valign="top"><img src="project begining console.jpg" width="50%"></td>
-    <td valign="top"><img src="1c.jpg" width="50%"></td>
+    <td valign="left"><img src="project begining console.jpg" width="80%"></td>
+    <td valign="left"><img src="1c.jpg" width="80%"></td>
   </tr>
   <tr>
     <td valign="top"><b>What</b><br>
