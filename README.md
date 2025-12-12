@@ -32,7 +32,7 @@
       - Final game software designed and created around hardware constraints (e.g. very limited ram, low clock speeds, single input button) <br>
       - Final program was upload and system was tested with a 9V battery power source</span>
     </td>
-    <td valign="top"><b>How</b><br>
+    <td valign="top"><b>Why</b><br>
       <span style="font-size:10px;">-Wanted to challenege myself and explore the design process for complex systems (both hardware and software) <br> 
         - Wanted to learn about simple power management, input systems, and display handling on a small scale project <br> 
         - A project I have been wanted to make for a long time
